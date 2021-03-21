@@ -148,6 +148,7 @@ nav .navbar-nav > li > a:focus {
   display: flex;
   justify-content: space-evenly;
   align-items: center;
+  text-align: center;
 }
 
 @media (max-width: 500px) {
