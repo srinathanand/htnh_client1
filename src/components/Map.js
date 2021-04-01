@@ -18,8 +18,8 @@ const Map = () => {
       <h3>Address: 525 Broad St Nashua, NH 03063 Phone: 1-603-598-4864</h3>
       <ReactMapGL
         {...viewport}
-        mapboxApiAccessToken="pk.eyJ1IjoicGFydGhhc2FzdHJ5IiwiYSI6ImNrbThlbnAxdzE3aGwyeG85NHpqZW9pNHoifQ.i63hN-u3JlBZsnzkN4D0iA"
-        mapStyle="mapbox://styles/parthasastry/ckm8f34is1f9m19qoznlatt7x"
+        mapboxApiAccessToken="pk.eyJ1IjoiYXNyaW5hdGgiLCJhIjoiY2tteTZ2MW16MDEyNjJ1bWwydDJlZXU5dSJ9.LmcOHGtY4f5IcmOSy34U2w"
+        mapStyle="mapbox://styles/asrinath/ckmy70dn41jn618mrow2alpaf"
         onViewportChange={(viewport) => {
           setViewport(viewport);
         }}
