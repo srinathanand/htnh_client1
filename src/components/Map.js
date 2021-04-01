@@ -14,8 +14,8 @@ const Map = () => {
   });
 
   return (
-    <div class="map">
-      <h3>Address: 525 Broad St Nashua, NH 03063 Phone: 1-603-598-4864</h3>
+    <div>
+      <h2>Address: 525 Broad St Nashua, NH 03063 Phone: 1-603-598-4864</h2>
       <ReactMapGL
         {...viewport}
         mapboxApiAccessToken="pk.eyJ1IjoiYXNyaW5hdGgiLCJhIjoiY2tteTZ2MW16MDEyNjJ1bWwydDJlZXU5dSJ9.LmcOHGtY4f5IcmOSy34U2w"
