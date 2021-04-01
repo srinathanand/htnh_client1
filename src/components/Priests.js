@@ -2,7 +2,7 @@ import React from "react";
 
 const Priests = () => {
   return (
-    <div class="priests">
+    <div id="priests" class="priests">
       <h1>Priests</h1>
       <h4>Sri. BALAKRISHNA SASTRY</h4>
         <p>+1 603 598 4864</p>
