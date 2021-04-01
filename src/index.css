@@ -133,6 +133,9 @@ nav .navbar-nav > li > a:focus {
   background:var(--light-background);
 }
 
+#map {
+  text-align: center;
+}
 
 #priests {
   text-align: center;

@@ -14,7 +14,7 @@ const Map = () => {
   });
 
   return (
-    <div>
+    <div class="map">
       <h3>Address: 525 Broad St Nashua, NH 03063 Phone: 1-603-598-4864</h3>
       <ReactMapGL
         {...viewport}
